@@ -1,0 +1,41 @@
+<html><head>
+
+   <!-- link the webpage's stylesheet (for later)-->
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- link the webpage's JavaScript file (for later) -->
+    <script src="/script.js" defer=""></script>
+
+  </head>
+
+  <body>
+    <header></header>
+<!-- Add some writing on your website-->
+    <h1> Website Title</h1>
+    <h2> Home Page </h2>
+
+    <!-- add images by downloading the jpg and linking it here, then input the link here-->
+    
+    <img id="axolotl" src="assets/axoltol.jpg">
+
+  
+
+    <!--include navigation by linking all pages in an unordered list (ul) -->
+    <nav>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="portfolio.html">Page 1</a></li> 
+</ul>  
+    </nav>
+
+    <main>
+<!-- include some text with the (<p>) tag-->
+      <p>
+FillerTextFillerTextFillerTextFillerTextFillerTextFillerTextFillerTextFillerTextFillerTextFillerTextFillerTextFillerTextFillerText
+ 
+<!--include a link with the (<a>) tag and include the text that will be displayed-->
+        <a href="https://www.treehugger.com/things-you-dont-know-about-axolotl-4863490">Click Me! </a> 
+      </p>
+    </main>
+   
+</body></html>
